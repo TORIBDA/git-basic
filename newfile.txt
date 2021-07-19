@@ -1,3 +1,14 @@
 Test TORIBDA
 
 this is coming from another update
+
+GIT Difference from:
+
+1. ADD
+- GIT Add adds the modified files into a "staging area" which are items/files that can still be unstaged/removed to the files that you may commit.
+
+2. COMMIT
+- by committing the files that you have added/staged, you create a committed node to represent the current state of the local repository. Meaning, you create a revision in which you can go back to, to know what was the state of the specified commit/revision.
+
+3. PUSH
+- by pushing the committed changes that you have in your local commits, you share the files on the remote repository for other collaborators' use or for which ever reason it is needed to be shared or available on the remote repository.
